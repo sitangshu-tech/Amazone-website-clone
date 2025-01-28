@@ -7,7 +7,7 @@
 </p>
 <br>
 <ul>
-  Responsive design for seamless viewing across devices
+  <li></li>Responsive design for seamless viewing across devices</li>
 </ul>
 <ul>
   Product listing and detail pages
