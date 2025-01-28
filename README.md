@@ -3,20 +3,20 @@
 <h3> Amazone Clone </h3>
 <br>
 <p>
-  A simple Amazon-inspired e-commerce website built using HTML, CSS, and JavaScript. Features include:
+  A simple Amazon-inspired e-commerce website built using HTML and  CSS, . Features include:
 </p>
 <br>
 <ul>
-  <li></li>Responsive design for seamless viewing across devices</li>
+  <li>Responsive design for seamless viewing across devices</li>
 </ul>
 <ul>
-  Product listing and detail pages
+  <li>Product listing and detail pages</li>
 </ul>
 <ul>
-  Add-to-cart functionality
+  <li>Add-to-cart functionality</li>
 </ul>
 <ul>
-  Basic user interface for navigation and interaction
+  <li>Basic user interface for navigation and interaction</li>
 </ul>
 <br>
 This project focuses on front-end development skills and simulates a real-world shopping experience. Perfect for beginners exploring web development.
